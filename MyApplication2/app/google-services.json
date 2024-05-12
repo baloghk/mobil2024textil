@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881665397385",
+    "project_id": "textilshop-9c07c",
+    "storage_bucket": "textilshop-9c07c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881665397385:android:c7924c841f1cddcf3d6c58",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeif_7PX_s9Smiqd6ED-hH39i4ZTG5VfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
